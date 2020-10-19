@@ -128,6 +128,20 @@ The Recorded Day of Week, Recorded Arrival Hour, and Average Distance From Stop 
 
 
 
-#### Cluster 0 Features
+#### Cluster 0 Features:
 
-* 
+* Classified as the afternoon bus routes as it is most frequent from 10 AM - 1 PM
+* Consists of the bus routes mostly used during the weekend
+
+#### Cluster 1 Features:
+
+* Classified as the morning and evening rush hour bus routes as it is most frequently used between the hours 6 AM - 9 AM and 2 PM - 6 PM
+* Consist of the bus routes mostly used during the week
+
+#### Cluster 2 Features: 
+
+*
+
+#### Cluster 3 Features:
+
+* Used as the very early morning bus routes as it is most frequent within the hours of 12 AM - 5 AM
