@@ -148,3 +148,15 @@ The Recorded Day of Week, Recorded Arrival Hour, and Average Distance From Stop 
 #### Cluster 3 Features:
 
 * Used as the very early morning bus routes as it is most frequent within the hours of 12 AM - 5 AM
+
+### Limitations:
+
+* The original dataset was very large (a little less than 7 million rows)
+* Given 1 week time frame to work with dataset
+* Used subsampling for clustering, could result in information loss or not the most accurate clusters
+
+### Posible Next Steps:
+
+* Apply other dimensionality reduction methods (UMAP)
+* Test out other clustering methods (DBSCAN, K-Medoids, etc.)
+* Apply clustering methods to entire dataset 
