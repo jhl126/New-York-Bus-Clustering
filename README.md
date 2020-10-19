@@ -126,7 +126,9 @@ From the dataset, four clusters were identified, each having similar sizes.
 
 The Recorded Day of Week, Recorded Arrival Hour, and Average Distance From Stop features were used to help classify clusters.
 
-
+![Plot](day_of_week.png)
+![Plot](recorded.png)
+![Plot](distance.png)
 
 #### Cluster 0 Features:
 
@@ -137,10 +139,11 @@ The Recorded Day of Week, Recorded Arrival Hour, and Average Distance From Stop 
 
 * Classified as the morning and evening rush hour bus routes as it is most frequently used between the hours 6 AM - 9 AM and 2 PM - 6 PM
 * Consist of the bus routes mostly used during the week
+* Farthest average distance from stop (classified as latest bus routes)
 
 #### Cluster 2 Features: 
 
-*
+* Closest average distance from stop (classified as the most on time bus routes)
 
 #### Cluster 3 Features:
 
