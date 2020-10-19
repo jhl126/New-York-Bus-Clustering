@@ -127,7 +127,9 @@ From the dataset, four clusters were identified, each having similar sizes.
 The Recorded Day of Week, Recorded Arrival Hour, and Average Distance From Stop features were used to help classify clusters.
 
 ![Plot](day_of_week.png)
+
 ![Plot](recorded.png)
+
 ![Plot](distance.png)
 
 #### Cluster 0 Features:
