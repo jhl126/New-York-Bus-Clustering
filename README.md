@@ -74,7 +74,7 @@ To determine the best clustering method and best dimensionality reduction method
 * 7 clusters is: 0.299
 * 8 clusters is: 0.271
 * 9 clusters is: 0.258
-* 10 clusters is:0.242
+* 10 clusters is: 0.242
 
 #### Agglomerative Clustering with t-SNE and ward linkage:
 
@@ -116,4 +116,18 @@ To determine the best clustering method and best dimensionality reduction method
 * 9 clusters is: 0.023
 * 10 clusters is: 0.021
 
-##### The best silhouette score was obtained from KMeans with t-SNE and K = 4
+##### The best silhouette score was obtained from KMeans with t-SNE and K = 4, therefore this clustering and dimensionality method was used for more analysis.
+
+### Findings
+
+From the dataset, four clusters were identified, each having similar sizes. 
+
+![Plot](cluster_sizes.png)
+
+The Recorded Day of Week, Recorded Arrival Hour, and Average Distance From Stop features were used to help classify clusters.
+
+
+
+#### Cluster 0 Features
+
+* 
